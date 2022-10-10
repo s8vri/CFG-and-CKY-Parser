@@ -3,8 +3,8 @@ In this assignment the Cocke-Kasami-Younger (CKY) algorithm for bottom-up CFG pa
 and applied to the word and the parsing problem of English.
 
 The CKY Parser was implemented based on the ATIS CFG available in the NLTK datapackage, together with 98 
-test sentences. ATIS CFG is a grammar which stems from a project dealing with implementing spoken lan-
-guage processing systems in the airline industry – the Airline Travel Information System.
+test sentences. ATIS CFG is a grammar which stems from a project dealing with implementing spoken language 
+processing systems in the airline industry – the Airline Travel Information System.
 
 *Output:*
 
