@@ -14,7 +14,7 @@ form sentence\t#parses for each test sentence, where \t is a tab character
 - images_parse_trees.pdf containing pictures of the parse trees for an ATIS test sentence with two to five parses. 
 
 
-*Project Structure*
+#Project Structure#
 
  -CKY_Parser.ipynb
 
@@ -37,7 +37,7 @@ The CKY_Parser.ipynb file contains all the code for the CKY recognizer and parse
                datetime
                
 System Details: OS Ubuntu 20.04.1 LTS
- 		 OS type 64 bit
+ 		             OS type 64 bit
  		 
 The runtime for the recognizer is: 43.738257 seconds
 The runtime for the recognizer and parser is: 49.783717 seconds
