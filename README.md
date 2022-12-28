@@ -37,7 +37,7 @@ form sentence\t#parses for each test sentence, where \t is a tab character
            
 ### System Details: 
                OS Ubuntu 20.04.1 LTS
- 		  OS type 64 bit
+ 		   OS type 64 bit
  		 
 The runtime for the recognizer is: 43.738257 seconds
 The runtime for the recognizer and parser is: 49.783717 seconds
