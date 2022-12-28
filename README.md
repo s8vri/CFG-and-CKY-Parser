@@ -22,7 +22,7 @@ form sentence\t#parses for each test sentence, where \t is a tab character
  
  - images_parse_trees.pdf
  
- - README.txt
+ - README.md
  
 *The output files are:*
 - trees_number.txt, contains only filtered parse trees with 2-5 parses
