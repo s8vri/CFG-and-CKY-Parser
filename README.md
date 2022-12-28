@@ -16,11 +16,9 @@ form sentence\t#parses for each test sentence, where \t is a tab character
 
 # Project Structure
 
- - CKY_Parser.ipynb
+ - CFG_and CKY_parsing.ipynb
 
  - trees_number.txt 
- 
- - images_parse_trees.pdf
  
  - README.md
  
