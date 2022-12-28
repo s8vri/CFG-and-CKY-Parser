@@ -14,7 +14,7 @@ form sentence\t#parses for each test sentence, where \t is a tab character
 - images_parse_trees.pdf containing pictures of the parse trees for an ATIS test sentence with two to five parses. 
 
 
-#Project Structure#
+# Project Structure
 
  -CKY_Parser.ipynb
 
