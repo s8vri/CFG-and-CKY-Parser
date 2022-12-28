@@ -24,11 +24,11 @@ form sentence\t#parses for each test sentence, where \t is a tab character
  
  - README.txt
  
-The output files are:
+*The output files are:*
 - trees_number.txt, contains only filtered parse trees with 2-5 parses
 - trees_number.txt, contains the 98 test sentences and the number of parses for each sentence
 
-The CKY_Parser.ipynb file contains all the code for the CKY recognizer and parser
+*The CKY_Parser.ipynb file contains all the code for the CKY recognizer and parser*
  
 ### Requirements: 
                python 3.8.5
