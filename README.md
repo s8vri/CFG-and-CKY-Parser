@@ -1,6 +1,5 @@
-# CFG and CKY Parser
-In this assignment the Cocke-Kasami-Younger (CKY) algorithm for bottom-up CFG parsing was implemented
-and applied to the word and the parsing problem of English.
+### CFG and CKY Parser
+This is the third assignment from the **computational linguistics** lecture at **Saarland University** during the **WS 2021/21**. In this assignment the Cocke-Kasami-Younger (CKY) algorithm for bottom-up CFG parsing was implemented and applied to the word and the parsing problem of English.
 
 The CKY Parser was implemented based on the ATIS CFG available in the NLTK datapackage, together with 98 
 test sentences. ATIS CFG is a grammar which stems from a project dealing with implementing spoken language 
@@ -14,7 +13,7 @@ form sentence\t#parses for each test sentence, where \t is a tab character
 - images_parse_trees.pdf containing pictures of the parse trees for an ATIS test sentence with two to five parses. 
 
 
-# Project Structure
+#### Project Structure
 
  - CFG_and CKY_parsing.ipynb
 
@@ -28,14 +27,14 @@ form sentence\t#parses for each test sentence, where \t is a tab character
 
 *The CKY_Parser.ipynb file contains all the code for the CKY recognizer and parser*
  
-### Requirements: 
+#### Requirements: 
                python 3.8.5
                nltk 3.5
                collections
                itertools
                datetime
            
-### System Details: 
+#### System Details: 
                OS Ubuntu 20.04.1 LTS
  		   OS type 64 bit
  		 
